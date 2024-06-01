@@ -1,0 +1,79 @@
+@media screen and (max-width: 480px) {
+   .display_style {
+     flex-direction: column;
+     padding: 10px;
+   }
+   .contact_image{
+    display:none;
+   }
+  .mount_fishtail{
+    font-size:30px;
+    letter-spacing: normal;
+    padding:0px;
+  }
+  .fishtail_content{
+    font-size:15px;
+    line-height:normal;
+    letter-spacing:2px;
+    font-weight: bold;
+  }
+  .button{
+    width:300px;
+    font-size:15px;
+  }
+  .main_background_image{
+    min-height:400px;
+  }
+  .text{
+   min-height:400px;
+  }
+  .look_at_the_stunning{
+    font-weight:bold;
+    font-size:15px;
+  }
+    .contact_container{
+      width:auto;
+      align-items:flex-end;
+      text-align:right;
+    }
+    .contact_us{
+      align-items:center;
+      text-align: center;
+    }
+    .contact_us_2{
+      align-items: center;
+      text-align:center;
+      font-size:30px;
+      letter-spacing:normal;
+    
+  }
+  .send_msg_button{
+    width:150px;
+    font-size:15px;
+    margin-top:8px;
+    margin-bottom:8px;
+  }
+  .call_now_banner{
+    height:160px;
+    padding-top:70px;
+    letter-spacing:3px;
+    font-size:15px;
+  }
+  .button_call_now{
+    width:200px;
+    font-size:15px;
+  }
+  
+  .card_container{
+    text-align:center;
+    width:350px;
+    }
+    .web_development{
+      font-size:25px;
+      margin-top:10px;
+    }
+    .card_container_content{
+      font-size:14px;
+      margin-top:20px;
+    }
+ }
